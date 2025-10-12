@@ -15,3 +15,5 @@ Please disclose it at [security advisory](https://github.com/RustCrypto/crypto-b
 
 This project is maintained by a team of volunteers on a reasonable-effort basis.
 As such, please give us at least 90 days to work on a fix before public exposure.
+
+<!-- Auto-update: 2025-10-12T17:26:38.557250 -->
